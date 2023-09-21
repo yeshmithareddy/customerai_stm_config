@@ -1,6 +1,6 @@
+import streamlit as st
 import boto3
 import pandas as pd
-import streamlit as st
 from io import StringIO
 import snowflake.connector
 
