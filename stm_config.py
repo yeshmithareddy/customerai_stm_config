@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 from io import StringIO
 import snowflake.connector
+import boto3
+
 
 # Connection parameters for Snowflake and S3
 connection_parameters1 = {
