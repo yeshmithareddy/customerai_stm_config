@@ -1,0 +1,15 @@
+altair==4.1.0
+config==0.5.1
+matplotlib==3.6.0
+numpy==1.23.1
+pandas==1.4.4
+plotly==5.10.0
+plotly_express==0.4.1
+seaborn==0.12.1
+snowflake==0.0.3
+snowflake_snowpark_python==1.1.0
+streamlit==1.11.0
+streamlit_option_menu==0.3.2
+streamlit-aggrid
+pyarrow<10.1.0,>=10.0.1
+s3fs==2023.9.0
