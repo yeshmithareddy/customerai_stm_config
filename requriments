@@ -1,7 +1,7 @@
-boto3
+boto3==1.28.46
 s3fs==2023.9.0
 config==0.5.1
 pandas==1.4.4
 streamlit==1.11.0
-snowflake.connector
+snowflake==0.0.3
 
