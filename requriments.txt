@@ -1,8 +1,7 @@
+boto3==1.28.46
 s3fs==2023.9.0
 config==0.5.1
 pandas==1.4.4
-snowflake_snowpark_python==1.1.0
 streamlit==1.11.0
 snowflake.connector==3.0.3
-boto3==1.28.46
 
